@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Hunan University of Science and Technology](https://www.hnust.edu.cn/). My research interest includes computer vision, computer graphics, and machine learning.
+I'm a third year undergraduate student from [Hunan University of Science and Technology](https://www.hnust.edu.cn/), Xiangtan, China. My research interest includes computer vision, computer graphics, and machine learning.
 
 
 
