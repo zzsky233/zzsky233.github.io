@@ -7,78 +7,50 @@ redirect_from:
   - /about/
   - /about.html
 ---
-亲爱的朋友，我叫章丽红，是一名来自湖南科技大学的本科生。本科导师：康国胜老师
+Hi! I am Ye Cao(Chinese name: 曹烨)
 
-如果您有任何疑问，欢迎与我联系！
+I am an undergraduate student from the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in Internet of Things. My primary research interests include large language models, recommended system, and natural language processing.
 
 ## Research Interest
 ------
-+ 服务推荐
-+ 自然语言处理
++ Machine Learning
++ Large Language Models 
++ Recommended System (Service Recommendation)
++ Natural Language Processing
 
 ## Publicationss
 ------
-+ **Lihong Zhang**, Jing He, Yamei Nie, Xiaokang Zhou, Qiqi Chen, Guosheng Kang*. JMF‑SS: Joint
-Matrix Factorization for Web API Recommendation with Mashup‑Mashup Similarities and API‑
-API Similarities. International Conference on Computer Supported Cooperative Work in Design.
-IEEE Computer Society, pp. 1219‑1224,2024  (CCF C)
-+ Wanjun Chen, Qiqi Chen, Jiexun Shen, Guosheng Kang*, Jianxun Liu, Buqing Cao, **Lihong Zhang**.
-Interactive Web API Recommendation via Exploring Mashup‑API Interactions and Functional De‑
-scription Documents. International Conference on Computer Supported Cooperative Work in De‑
-sign. IEEE Computer Society, pp. 121‑126, 2024  (CCF C)
++ **Ye Cao**, Ziyi Niu, Guosheng Kang, Zon Zon Htet, Jianxun Liu, Buqing Cao, Yiping Wen. "Model to Text for Process Recommendation via Fine-Tuned LLM." CCF International Conference on Service Science, 2026. ( ICSS , CCF C , Under Review )
++ Jinhui Luo, Jiayi Long, Ziyi Niu, Jiawei Chen, Guosheng Kang*, **Ye Cao**, Xinci Qiu. "Frequency-Based Heterogeneous Graph-Sequence Fusion Network for Next Activity Prediction." IEEE International Joint Conference on Neural Networks, 2026. ( IJCNN , CCF C , Accept )
 
 ## Projects
 ------
-+ **基于图像识别和语音交互的智能艾灸仪** 指导老师：王晓亮、周晓兰、刘桂开 2022.06‑2024.06
++ **心灵低语-基于多模态数据挖掘和LSTM网络计算的智能辅助检测心理健康系统** 指导老师：夏新军 2024.06-2025.06
   
-  **项目简介**：由机械臂模块、自动推进与敲灰模块、灭火装置模块、自动点燃模块、艾灸夹取模块、视觉传
-  感模块、智能语音控制模块和智能控温模块共8个模块构成,解决目前市场上电加热艾灸效果不明显的缺点
-  <br>
-  **源码地址**：[github.com/ZLihong/moxibustion-apparatus](https://github.com/ZLihong/moxibustion-apparatus)
-
-+ **基于单目标优化模型的最优配色问题研究**指导老师：谭敏 2023.08
-
-  **项目简介**：采用优化模型来解决传统的人工配色方法存在的一些限制,比如主观因素较强,效率较低等问题
-  <br>
-  **源码地址**：[github.com/ZLihong/B-202308-mathematical-modeling](https://github.com/ZLihong/B-202308-mathematical-modeling).
-
-+ **多波束测线问题研究** 指导老师：谭敏 2023.09
-  
-  **项目简介**：通过计算声波在海水中的传播速度和传播时间并对海底进行数字地形建模,来解决多波束测深系统存在漏测 
-  或者相邻条带之间的重叠率过大的问题,并求出测线的总长度
-  <br>
-  **源码地址**：[github.com/ZLihong/B-202309-mathematical-modeling](https://github.com/ZLihong/B-202308-mathematical-modeling)
+  **项目简介**：研发了一种智能辅助监测心理健康装置，诣在为青少年心理问题的发现和解决提供更好的帮助，该系统通过对心率,皮肤电反应,心电图等生理指标和情绪状态进行检测，使用数据分析与智能模型，识别用户的心理状态评估和情绪识别，向用户提供全面的心理健康报告和分析，帮助用户更好地了解和管理心理状态
   
 ## Awards
 ------
-+ **章丽红(排名1/3)**. “华数杯”中国大学生数学建模竞赛**国家一等奖** 2023.08
-+ **章丽红(排名1/3)**. “高教杯”中国大学生数学建模竞赛**国家二等奖** 2023.11
-+ **章丽红**. 计算机能力挑战赛**国家三等奖** 2023.11 
-+ **章丽红**. 蓝桥杯软件和信息技术专业人才大赛C/C++程序设计组**省级二等奖** 2024.04
-+ **章丽红(排名3/5)**. 中国大学生设计竞赛**省级一等奖** 2024.05
-+ **章丽红**.CCF CSP认证240分 2024.06
-+ **章丽红(排名3/5)**. 中国高校计算机大赛-网络技术挑战赛**省级二等奖** 2024.06    
-+ **章丽红(排名3/5)**. 全国大学生电子商务“创新、创意及创业”挑战赛**省级一等奖** 2024.06
++ **曹烨**. 2025睿抗机器人开发者大赛(RAICOM)**国家二等奖** 2025.08
++ **曹烨**. 第十九届iCAN大学生创新创业大赛湖南赛区二等奖. 2025.11
++ **曹烨**. 第十五届蓝桥杯软件和信息技术专业人才大赛程序设计大赛湖南赛区二等奖. 2025.05
++ **曹烨**. 中国高校计算机大赛2025网络技术挑战赛华中赛区三等奖. 2025.07 
++ **曹烨**. 2025年(十八届)中国大学生计算机设计大赛中南地区赛本科生组三等奖. 2025.06
 
 ## Credit
 ------
-+ 校级创新创业先进个人 2022
-+ 校级二等综合奖学金 2022
-+ 国家励志奖学金 2023
-+ 校级一等综合奖学金 2023
-+ 校级三好学生 2023
-+ 校级自强之星 2023
-+ 校级优秀共青团员 2023,2024
++ 校级创新创业先进个人 2025
++ 校级一等综合奖学金 2025
++ 校级优秀学生 2025
++ 校级一等综合奖学金 2024
++ 校级三好学生 2024
 
 ## Major Courses
 ------
-+ 操作系统 91分
-+ 数据库系统 92分
-+ 计算机组成原理 91分
-+ 计算机网络 97分
-+ 软件工程 94分
-+ 数据结构 83分
-+ C语言程序设计 89分
-+ 数据仓库与数据挖掘 98分
-+ 大数据技术与应用 96分
-+ 面向对象程序设计 99分
++ 操作系统 94分
++ 计算机组成原理 97分
++ 计算机网络 95分
++ 数字逻辑与数字系统 98分
++ 离散数学 95分
++ 数据结构 97分
++ C语言程序设计 95分
