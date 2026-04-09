@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China Hunan"
-title                    : "Lihong Zhang"
+title                    : "Ye Cao"
 title_separator          : "-"
-name                     : &name "Lihong Zhang"
+name                     : &name "Ye Cao"
 description              : &description "personal description"
-url                      : https://zlihong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zzsky233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zlihong/zlihong.github.io"
+repository               : "zzsky233/zzsky233.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lihong Zhang (章丽红)"
-  avatar           : "profile1.png"
+  name             : "Ye Cao"
+  avatar           : "profile.png"
   bio              : "Undergraduate student in Hunan University of Science and Technology"
   location         : "China Hunan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zlhy04@gmail.com"
+  email            : "caoye6233@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zlihong"
+  github           : "zzsky233"
   google_plus      :
   keybase          :
   instagram        :
