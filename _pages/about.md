@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Ye Cao(Chinese name: 曹烨)
+Hi! I am Ye Cao (Chinese name: 曹烨)
 
 I am an undergraduate student from the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in Internet of Things. My primary research interests include large language models, recommended system, and natural language processing.
 
@@ -25,7 +25,9 @@ I am an undergraduate student from the School of Computer Science and Engineerin
 
 ## Projects
 ------
-+ **心灵低语-基于多模态数据挖掘和LSTM网络计算的智能辅助检测心理健康系统** 2024.06-2025.06
++ **心灵低语-基于多模态数据挖掘和LSTM网络计算的智能辅助检测心理健康系统**
+  <br>
+  2024.06-2025.06
   
   **项目简介**：研发了一种智能辅助监测心理健康装置，诣在为青少年心理问题的发现和解决提供更好的帮助，该系统通过对心率,皮肤电反应,心电图等生理指标和情绪状态进行检测，使用数据分析与智能模型，识别用户的心理状态评估和情绪识别，向用户提供全面的心理健康报告和分析，帮助用户更好地了解和管理心理状态
   
