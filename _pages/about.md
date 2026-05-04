@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I am Ye Cao (Chinese name: 曹烨)
 
-I am an undergraduate student from the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in Internet of Things. My primary research interests include large language models, recommended system, and natural language processing.
+I am an undergraduate student from the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in Internet of Things. My primary research interests include large language models, recommended system, and natural language processing. Lately, I have also been delving into the fields of multi-agent systems and the integration of LLMs with recommendation systems.
 
 ## Research Interest
 ------
